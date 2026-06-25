@@ -69,7 +69,7 @@ My current direction includes building **n8n workflow automations** that connect
 
 <p align="center"><strong>Languages</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css&theme=dark&perline=10" />
 </p>
 
 <p align="center"><strong>Frontend</strong></p>
@@ -79,12 +79,12 @@ My current direction includes building **n8n workflow automations** that connect
 
 <p align="center"><strong>Backend & Databases</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark&perline=10" />
 </p>
 
 <p align="center"><strong>Cloud</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify,postman,linux,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,linux,vscode&theme=dark&perline=10" />
 </p>
 
 ---
