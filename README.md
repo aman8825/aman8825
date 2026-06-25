@@ -21,11 +21,11 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/aman8825">
+  <a href="https://linkedin.com/in/aman-kumar17">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="mailto:aman8825@gmail.com">
+  <a href="mailto:amank.dev21@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
@@ -82,7 +82,7 @@ My current direction includes building **n8n workflow automations** that connect
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgresql,redis,firebase&theme=dark&perline=10" />
 </p>
 
-<p align="center"><strong>Cloud, DevOps & Tooling</strong></p>
+<p align="center"><strong>Cloud</strong></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,vercel,netlify,postman,linux,vscode&theme=dark&perline=10" />
 </p>
@@ -97,12 +97,10 @@ My current direction includes building **n8n workflow automations** that connect
 |:---|:---:|:---|
 | Workflow Design | ⬛⬛⬛⬛⬜ Advanced | Multi-step n8n workflows with conditional logic, loops & error handling |
 | API Integrations | ⬛⬛⬛⬛⬜ Advanced | Connecting REST APIs, webhooks, and third-party services via n8n nodes |
-| Database Automation | ⬛⬛⬛⬛⬜ Advanced | MongoDB, MySQL, PostgreSQL triggers and automated data pipelines |
 | Notification Systems | ⬛⬛⬛⬛⬜ Advanced | Slack, Gmail, Telegram, Discord bots via n8n automation flows |
 | Scheduled Jobs | ⬛⬛⬛⬛⬜ Advanced | Cron-based triggers, polling workflows, and event-driven pipelines |
 | MERN + n8n Bridge | ⬛⬛⬛⬛⬜ Advanced | Embedding n8n webhook triggers inside Node.js/Express backend services |
-| Self-Hosted n8n | ⬛⬛⬛⬜⬜ Intermediate | Deploying n8n on VPS / Docker with persistent workflow storage |
-| Data Transformation | ⬛⬛⬛⬜⬜ Intermediate | JSON manipulation, data mapping, and Function node scripting |
+
 
 </div>
 
@@ -226,7 +224,7 @@ Implements the complete OAuth 2.0 authorization code flow with PKCE extension, p
 
 ### Full Stack Developer — Freelance & Projects
 **Self-Directed / Client Work**
-*2022 — Present*
+* Present*
 
 Designing and delivering end-to-end web products for clients and personal ventures, spanning full MERN stack development, REST API architecture, and frontend engineering with React and Next.js.
 
@@ -292,7 +290,7 @@ Designing and delivering end-to-end web products for clients and personal ventur
 
 <p align="center"><strong>NPTEL</strong></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge&logo=databricks&logoColor=white"/>
+ <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Java-7C3AED?style=for-the-badge&logo=java&logoColor=white"/>
   &nbsp;
   <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-6D28D9?style=for-the-badge&logo=icloud&logoColor=white"/>
 </p>
